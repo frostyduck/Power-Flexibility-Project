@@ -5,7 +5,7 @@ Some program codes for the RSF-DFG project "Development of Innovative Technologi
 
 This folder consists of Python and Matlab program codes, which presents a bi-level optimization framework applied to study operating flexibility and optimize two-level power system performance with (1) increasing presence of distributed energy resources (DER) at the low-voltage level, and (2) variable wind power generation at the high-voltage level.
 
-(https://drive.google.com/file/d/1KOMeo0DdN2XjBkhYzqF1qM4qEEZ6dwZf/view?usp=sharing "Орк")
+![Alt-текст](https://www.dropbox.com/s/lr84auynxpx14nh/Flex.png?dl=0 "Орк")
 
 
 * **BilevelTest_Matlab** - the folder, which includes MATLAB program files for classical bilevel optimization approach. It requires Mathpower, YALMIP and Gurobi. 
