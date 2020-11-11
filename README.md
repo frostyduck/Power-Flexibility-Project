@@ -16,6 +16,6 @@ Bus 1 is the feeding bus for every subsystem of the distribution grid.  Operatin
 
 ##  Flexibility_HeatPowerSystem. 
 
-This folder consists of Python program file - Flexibility_MILP.py, to investigate the potential for the enhancement of integrated (heat+power) system flexibility by using a heating network 
+This folder consists of Python program file - Flexibility_MILP.py, to investigate the potential for the enhancement of integrated (heat+power) system flexibility by using a heating network. It requires Gurobi.
 
 We try to evaluate several optimization approaches based on MILP. We used the model to study the combined heat and power dispatch mode implemented on the integrated 6-bus electricity and 3-bus district heating network. This system comprises a conventional electricity generator G1, a wind producer W1, HP and an extraction CHP. The objective of the integrated heat and power dispatch (IHPD) is to mini-mize production costs of the overall energy system. In order to assess the impact of the district heating network on the power system, IHPD model is compared to a conventional economic dispatch (CED), which presents a co-optimization model for heat and electricity in which the district heating network is not modeled. This simulation shows that the IHPD model improves economic efficiency of the overall energy system and increases wind utilization by enhancing the flexibility of the district heating network.  
